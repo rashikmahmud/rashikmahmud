@@ -69,17 +69,10 @@
 
 ---
 
-### 💡 Quote I Live By
-
-> _"In God we trust. All others must bring data."_  
-> — **W. Edwards Deming**
-
----
-
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hikmahmud/" target="_blank">
+  <a href="https://www.linkedin.com/in/rashikmahmud/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
