@@ -24,7 +24,6 @@
 - 🧠 Always learning and sharing — currently deep diving into forecasting and model deployment
 
 ---
-
 ### 🛠 Languages & Tools
 
 <p align="center">
@@ -32,19 +31,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="28" alt="Pandas"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="28" alt="NumPy"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="28" alt="Azure"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="28" alt="SQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="28" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="28" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="28" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="28" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="28" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="28" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="28" alt="SQLite"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="28" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="28" alt="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="28" alt="JavaScript"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="28" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="28" alt="Git"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="28" alt="OpenCV"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="28" alt="PyTorch"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="28" alt="Scikit-learn"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="28" alt="Seaborn"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="28" alt="TensorFlow"/>
 </p>
+
 
 ---
 
