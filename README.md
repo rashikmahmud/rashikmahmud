@@ -1,6 +1,8 @@
+<!--
 <div align="center">
   <img height="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
+-->
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rashikmahmud.rashikmahmud" />
@@ -9,7 +11,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Rashik Mahmud</h1>
-<h3 align="center">Business Analyst @ Shannex | Data Enthusiast | Telling Stories with Data</h3>
+<h3 align="center">Business Analyst @ Shannex | Data Enthusiast | ML Explorer</h3>
 
 ---
 
@@ -18,30 +20,30 @@
 - 💼 Business Analyst at **Shannex**
 - 🎓 Master's in Data Science, Dalhousie University  
 - 🔍 Exploring **Power BI**, **Databricks**, and **PyTorch**
-- 📊 Passionate about transforming data into insights that drive impact
-- 🧠 Lifelong learner — currently diving deep into forecasting and model deployment
+- 📊 Passionate about transforming data into decisions
+- 🧠 Always learning and sharing — currently deep diving into forecasting and model deployment
 
 ---
 
 ### 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="30" alt="Pandas"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="30" alt="NumPy"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="30" alt="Azure"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="30" alt="SQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="30" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="30" alt="OpenCV"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="30" alt="PyTorch"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="Scikit-learn"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="30" alt="Seaborn"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="30" alt="TensorFlow"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="28" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="28" alt="Pandas"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="28" alt="NumPy"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="28" alt="Azure"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="28" alt="SQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="28" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="28" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="28" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="28" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="28" alt="JavaScript"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="28" alt="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="28" alt="OpenCV"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="28" alt="PyTorch"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="28" alt="Scikit-learn"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="28" alt="Seaborn"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="28" alt="TensorFlow"/>
 </p>
 
 ---
