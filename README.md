@@ -11,7 +11,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Rashik Mahmud</h1>
-<h3 align="center">Business Analyst @ Shannex | Data Enthusiast | ML Explorer</h3>
+<h3 align="center">Business Intelligence Analyst @ Shannex | Data Enthusiast | ML Explorer</h3>
 
 ---
 
