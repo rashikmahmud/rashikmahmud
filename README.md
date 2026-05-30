@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Business Analyst at **Shannex**
+- 💼 Business Intelligence Analyst at **Shannex**
 - 🎓 Master's in Data Science, Dalhousie University  
 - 🔍 Exploring **Power BI**, **Databricks**, and **PyTorch**
 - 📊 Passionate about transforming data into decisions
