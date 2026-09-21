@@ -1,0 +1,22 @@
+{
+  "name": "rashik-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal portfolio of Rashik Mahmud Orchi — Data & Analytics Engineering",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "framer-motion": "^11.11.17",
+    "next": "^14.2.18",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^14.2.18"
+  }
+}
